@@ -1,0 +1,38 @@
+{
+  "name": "community-bot",
+  "version": "1.0.0",
+  "description": "SparkPost's community Slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparkPost/community-bot.git"
+  },
+  "engines": {
+    "node": ">=4.0.0",
+    "npm": ">=2.0.0 <3.0.0"
+  },
+  "keywords": [
+    "SparkPost",
+    "bot",
+    "slack",
+    "skellington"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SparkPost/community-bot/issues"
+  },
+  "homepage": "https://github.com/SparkPost/community-bot#readme",
+  "dependencies": {
+    "botkit-storage-mongo": "^1.0.2",
+    "sk-nirvana": "^1.0.0",
+    "sk-sparkpost-webhook": "^1.0.0",
+    "skellington": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.4.0"
+  }
+}

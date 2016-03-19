@@ -1,4 +1,5 @@
 # community-bot
+[![Build Status](https://travis-ci.org/SparkPost/community-bot.svg?branch=master)](https://travis-ci.org/SparkPost/community-bot)
 [![Slack Status](http://slack.sparkpost.com/badge.svg)](http://slack.sparkpost.com)
 
 A bot for the SparkPost community Slack team

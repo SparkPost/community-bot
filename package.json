@@ -4,6 +4,7 @@
   "description": "SparkPost's community Slack bot",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
     "test": "eslint index.js"
   },
   "repository": {

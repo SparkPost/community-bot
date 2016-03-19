@@ -4,4 +4,4 @@ node_js:
   - "4"
   - "5"
 install: npm install
-script: "npm run-script ci"
+script: "npm test"

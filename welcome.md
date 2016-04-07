@@ -1,6 +1,6 @@
 :wave: Hi there, and welcome to the SparkPost community! I'm Sparky, your friendly Slackbot, and I'm here to give you a quick tour so you feel a little more at home.
 
-Start off in the welcome channel. Feel free to introduce yourself... we're a friendly crew :) Tell us who you are and where you're from, or just wave hello. We'd love to get to know you!
+Start off in the #community channel. Feel free to introduce yourself... we're a friendly crew :) Tell us who you are and where you're from, or just wave hello. We'd love to get to know you!
 
 If you've got a general question about getting started with SparkPost, head over to #support. Someone there will be able to help you, or at least point you in the right direction.
 
@@ -13,4 +13,5 @@ No matter if you need a question answered, want to share what you're working on,
 That's all for now! But if you have any questions, holler at me, and keep your eyes peeled for the occasional easter egg.
 
 Cheers!
+
 :sparky:

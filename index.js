@@ -11,6 +11,7 @@ require('skellington')({
       type: 'post',
       title: 'Welcome to the SparkPost Community!',
       text: fs.readFileSync('./welcome.md')
-    })
+    }),
+    require('./lib/docs.js')
   ]
 });

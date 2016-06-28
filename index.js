@@ -10,7 +10,8 @@ let config = {
       title: 'Welcome to the SparkPost Community!',
       text: fs.readFileSync('./welcome.md')
     }),
-    require('./lib/docs.js')
+    require('./lib/docs.js'),
+    require('./lib/five.js')
   ]
 };
 

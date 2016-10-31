@@ -11,7 +11,8 @@ let config = {
       text: fs.readFileSync('./welcome.md')
     }),
     require('./lib/docs.js'),
-    require('./lib/five.js')
+    require('./lib/five.js'),
+    require('./lib/dm-catchall')
   ]
 };
 

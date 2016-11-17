@@ -2,6 +2,7 @@
 
 let fs = require('fs');
 let config = {
+  slackToken: process.env.SLACK_API_TOKEN,
   plugins: [
     require('sk-nirvana'),
     require('sk-sparkpost-webhook'),

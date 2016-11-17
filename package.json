@@ -35,7 +35,7 @@
     "lodash": "^4.11.2",
     "sk-nirvana": "^1.0.1",
     "sk-sparkpost-webhook": "^1.0.0",
-    "skellington": "^0.1.0",
+    "skellington": "^1.0.0-beta.7",
     "skellington-welcome": "^1.1.0"
   },
   "devDependencies": {

@@ -18,7 +18,9 @@ let config = {
 };
 
 if (process.env.MONGOLAB_URI) {
-  config.storage = require('botkit-storage-mongo')({mongoUri: process.env.MONGOLAB_URI});
+  config.botkit = {
+    storage: require('botkit-storage-mongo')({mongoUri: process.env.MONGOLAB_URI})
+  };
 }
 
 require('skellington')(config);

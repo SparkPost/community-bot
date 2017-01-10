@@ -7,7 +7,7 @@ Please remember that this Slack channel is not a replacement for our normal [sup
 Start off in the #welcome channel. Feel free to introduce yourself... we're a friendly crew :) Tell us who you are and
 where you're from, or just wave hello. We'd love to get to know you!
 
-If you've got a general question about getting started with SparkPost, head over to #community-support. Someone there will
+If you've got a general question about getting started with SparkPost, head over to #community-help. Someone there will
 be able to help you, or at least point you in the right direction.
 
 Know exactly what topic you need help with? Take a look at the list of channels -- you just may find the one you're looking for!

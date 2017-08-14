@@ -30,13 +30,16 @@
   },
   "homepage": "https://github.com/SparkPost/community-bot#readme",
   "dependencies": {
+    "algoliasearch": "^3.24.3",
     "botkit-storage-mongo": "^1.0.2",
     "fuzzy": "^0.1.1",
     "lodash": "^4.11.2",
     "sk-nirvana": "^1.0.1",
     "sk-sparkpost-webhook": "^1.0.0",
     "skellington": "^1.1.0",
-    "skellington-welcome": "^1.1.0"
+    "skellington-welcome": "^1.1.0",
+    "striptags": "^3.0.1",
+    "unescape": "^1.0.1"
   },
   "devDependencies": {
     "eslint": "^2.4.0"

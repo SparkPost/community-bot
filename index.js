@@ -13,7 +13,7 @@ let config = {
     }),
     require('./lib/docs.js'),
     require('./lib/five.js'),
-    require('./lib/dm-catchall')
+    require('./lib/algolia-search')
   ]
 };
 
